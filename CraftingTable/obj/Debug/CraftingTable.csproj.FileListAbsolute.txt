@@ -1,0 +1,7 @@
+c:\users\user\source\repos\CraftingTable\CraftingTable\obj\Debug\CraftingTable.csprojAssemblyReference.cache
+c:\users\user\source\repos\CraftingTable\CraftingTable\obj\Debug\CraftingTable.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CraftingTable\CraftingTable\bin\Debug\CraftingTable.exe.config
+c:\users\user\source\repos\CraftingTable\CraftingTable\bin\Debug\CraftingTable.exe
+c:\users\user\source\repos\CraftingTable\CraftingTable\bin\Debug\CraftingTable.pdb
+c:\users\user\source\repos\CraftingTable\CraftingTable\obj\Debug\CraftingTable.exe
+c:\users\user\source\repos\CraftingTable\CraftingTable\obj\Debug\CraftingTable.pdb
